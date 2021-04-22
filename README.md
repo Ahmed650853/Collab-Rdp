@@ -110,3 +110,79 @@ After that click run button of RDP cell then it will install some tools
 
 ![image](https://user-images.githubusercontent.com/50911878/115756328-b8d34f00-a3bb-11eb-9342-e8a2122c61a7.png)
 
+after Installation completed then go to the google remote desktop
+
+
+![image](https://user-images.githubusercontent.com/50911878/115753348-bcb1a200-a3b8-11eb-8c58-b29dbd61dcd1.png)
+
+
+**And click on `remote access`**
+
+![image](https://user-images.githubusercontent.com/50911878/115759059-71e65900-a3bd-11eb-8210-e5266c75308d.png)
+
+after that you will see an online instance(remote device)
+
+![image](https://user-images.githubusercontent.com/50911878/115759234-a6f2ab80-a3bd-11eb-9595-7ff6222f4eea.png)
+
+click on that you will see connecting
+
+![image](https://user-images.githubusercontent.com/50911878/115759362-ca1d5b00-a3bd-11eb-9456-1dd225447ce4.png)
+
+after connecting copy the pin from the notebook in `RDP Cell` 
+
+![image](https://user-images.githubusercontent.com/50911878/115759583-0650bb80-a3be-11eb-9941-3a54c9e3fb69.png)
+
+and paste in the text field in google remote desktop
+
+![image](https://user-images.githubusercontent.com/50911878/115759664-22545d00-a3be-11eb-87a8-b8d987acf7d8.png)
+
+then check the checkbox
+
+![image](https://user-images.githubusercontent.com/50911878/115759854-59c30980-a3be-11eb-98fb-dae4dfdc4ade.png)
+
+and click on the arrow button
+
+![image](https://user-images.githubusercontent.com/50911878/115759945-73fce780-a3be-11eb-823d-acd05fdd38c7.png)
+
+it will show connecting
+
+![image](https://user-images.githubusercontent.com/50911878/115759999-8119d680-a3be-11eb-9f61-964f77c3cabb.png)
+
+after connectimg it will open the linux instance
+
+![image](https://user-images.githubusercontent.com/50911878/115760162-a870a380-a3be-11eb-832e-29737aa712e5.png)
+
+click on `use default config` 
+
+![image](https://user-images.githubusercontent.com/50911878/115760252-c2aa8180-a3be-11eb-98a8-58991917bddd.png)
+
+click on browser from the task bar at bottom
+
+![image](https://user-images.githubusercontent.com/50911878/115760771-35b3f800-a3bf-11eb-9d21-bf9c6a4c6570.png)
+
+
+then click on `ok`
+
+![image](https://user-images.githubusercontent.com/50911878/115760830-47959b00-a3bf-11eb-8664-7055c444afea.png)
+
+
+now chrome will be open 
+
+![image](https://user-images.githubusercontent.com/50911878/115760892-5aa86b00-a3bf-11eb-8e17-d8ea0d317293.png)
+
+
+now create new tab and check the speed
+
+![image](https://user-images.githubusercontent.com/50911878/115761049-89264600-a3bf-11eb-9cab-a2dc1cb0a8d6.png)
+
+
+![image](https://user-images.githubusercontent.com/50911878/115761187-b4109a00-a3bf-11eb-9a13-42922debbc26.png)
+
+
+---------
+
+
+# Now you have to config for some feature
+
+
+## 1. 
