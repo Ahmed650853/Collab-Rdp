@@ -39,7 +39,9 @@ now you will see user creation process will be started and after few seconds you
 
 ## Step - 2 RDP conection using google remote desktop
 
-visit this link <a href="https://remotedesktop.google.com/headless">![image](https://user-images.githubusercontent.com/50911878/115745857-74db4c80-a3b1-11eb-8993-d46254d82144.png)</a>
+visit this link 
+
+<a href="https://remotedesktop.google.com/headless">![image](https://user-images.githubusercontent.com/50911878/115745857-74db4c80-a3b1-11eb-8993-d46254d82144.png)</a>
 
 
 you will see install button in url tab before bookmark button 
