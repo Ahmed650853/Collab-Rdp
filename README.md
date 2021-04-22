@@ -52,7 +52,52 @@ click it to install in your desktop so that you do not have to open browser
 
 
 
+now you will see a icon in desktop 
 
+![image](https://user-images.githubusercontent.com/50911878/115750697-1369ac80-a3b6-11eb-8abd-496ef5b9702f.png)
+
+**open that**
+
+you will see window like this 
+
+![image](https://user-images.githubusercontent.com/50911878/115750899-46ac3b80-a3b6-11eb-8508-b92b61aab9f4.png)
+
+
+## Step 3 - Authorization
+
+click on begin button
+
+![image](https://user-images.githubusercontent.com/50911878/115751173-8d9a3100-a3b6-11eb-830e-9fb29c04edb8.png)
+
+
+then click on next 
+
+![image](https://user-images.githubusercontent.com/50911878/115751414-cc2feb80-a3b6-11eb-8128-cb3e12327494.png)
+
+
+then click on authorise
+
+![image](https://user-images.githubusercontent.com/50911878/115751587-f2ee2200-a3b6-11eb-979c-9deade2bc7bf.png)
+
+
+now google sign in dilog will pop up then select any one of account to authorise
+
+![image](https://user-images.githubusercontent.com/50911878/115753047-5a58a180-a3b8-11eb-8f44-3262a83ed6ca.png)
+
+
+**choose any one of the account**
+
+after authentication some key will be genreted
+
+![image](https://user-images.githubusercontent.com/50911878/115753256-9db31000-a3b8-11eb-8829-47d16ebd2308.png)
+
+you have to copy key of Debian Linux
+
+![image](https://user-images.githubusercontent.com/50911878/115753348-bcb1a200-a3b8-11eb-8c58-b29dbd61dcd1.png)
+
+Paste this key to crp text field in notebook
+
+![image](https://user-images.githubusercontent.com/50911878/115753588-fda9b680-a3b8-11eb-809a-9f1602d494ef.png)
 
 
 
