@@ -2,7 +2,9 @@
 
 #  Collab-Rdp 
 
-## To Open the notebook Click on below button
+# If you wnat to use google collab instance with RDP then do the folowing step
+
+## Open the notebook Click on below button
 
 <a href="https://colab.research.google.com/github/Shubham2157/Collab-Rdp/blob/main/Colab_RDP.ipynb"><img src="https://image.freepik.com/free-vector/big-blue-now-open-button-sticker-door-3d-style_223622-319.jpg" width="200" height="200"></a>
 
@@ -26,6 +28,8 @@ This notebook will be open
 > You can skip above step and dirctly click on run button of create user cell all the above procees will be done automatically
 
 ## Step - 1-a User Creation
+
+user and password are used for machine and will be needed if you lock the linux machine
 
 ![image](https://user-images.githubusercontent.com/50911878/115743896-b539cb00-a3af-11eb-92b7-1e82ab425f5e.png)
 
@@ -181,8 +185,3 @@ now create new tab and check the speed
 
 ---------
 
-
-# Now you have to config for some feature
-
-
-## 1. 
