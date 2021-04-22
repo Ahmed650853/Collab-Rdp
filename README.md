@@ -9,3 +9,7 @@
 This notebook will be open
 
 ![image](https://user-images.githubusercontent.com/50911878/115740249-4313b700-a3ac-11eb-95f6-c0ffc1fb5ff7.png)
+
+** In Right Corner Click on connect arrow **
+
+![image](https://user-images.githubusercontent.com/50911878/115741913-cd104f80-a3ad-11eb-941d-64a8d5c98fcd.png)
