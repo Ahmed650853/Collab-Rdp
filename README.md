@@ -95,10 +95,18 @@ you have to copy key of Debian Linux
 
 ![image](https://user-images.githubusercontent.com/50911878/115753348-bcb1a200-a3b8-11eb-8c58-b29dbd61dcd1.png)
 
+## Step - 4 Configuration 
+
 Paste this key to crp text field in notebook
 
 ![image](https://user-images.githubusercontent.com/50911878/115753588-fda9b680-a3b8-11eb-809a-9f1602d494ef.png)
 
+> **You Can change the `pin` if you want it will required in connecting with the inctance**
+
+After that click run button of RDP cell then it will install some tools
+
+![image](https://user-images.githubusercontent.com/50911878/115758065-5b8bcd80-a3bc-11eb-836a-11e9cebf648b.png)
 
 
+![image](https://user-images.githubusercontent.com/50911878/115756328-b8d34f00-a3bb-11eb-9342-e8a2122c61a7.png)
 
