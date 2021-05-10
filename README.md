@@ -1,10 +1,12 @@
 
 
 #  Collab-Rdp 
+## RDP - or Remote Desktop Protocole helps you to connect to a Remote Desktop System and Control it just like any other normal Software.(similar to using using  Ubuntu on Virtual Box)
+## Google Collab provides you upto 12 hours of compute time. *There would be no restrtions on sites or applications*
+## You can follow the steps given to connect to a collab system via Chrome Remote Desktop.
 
-# If you wnat to use google collab instance with RDP then do the folowing step
 
-## Open the notebook Click on below button
+## To open the notebook Click on below button
 
 <a href="https://colab.research.google.com/github/Shubham2157/Collab-Rdp/blob/main/Colab_RDP.ipynb"><img src="https://image.freepik.com/free-vector/big-blue-now-open-button-sticker-door-3d-style_223622-319.jpg" width="200" height="200"></a>
 
